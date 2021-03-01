@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+img.textoCentro{
+    font-size: 100px;
+    font-family: sans-serif;
+    vertical-align: middle;
+  }
+
+h1{
+    color:rgb(53, 53, 53);
+    font-size: 60px;
+    font-family: monospace;
+    text-align: center;
+}
+
+h2{
+    color:black;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: auto;
+}
+
+h3{
+    color:black;
+    font-size: 70px;
+    font-family:sans-serif ;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: dimgray;
+    background-size: cover;
+}
+
+div#general{
+    width: 960px;
+    height: 800px;
+    background-color: red;
+    margin: auto;
+}
+

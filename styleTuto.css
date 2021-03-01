@@ -1,0 +1,42 @@
+body{
+    background-color: grey; 
+}
+H1{
+    font-size: 60px;
+    font-style: italic;
+    color:red;
+    align-content: center;
+}
+
+H2{
+    font-size: 40px;
+    font-family: cursive;
+    color:red;
+    align-content: center;
+}
+
+h3{
+    color:black;
+    font-size: 70px;
+    font-family:sans-serif ;
+    text-align: center;
+}
+
+p{
+    
+    width: 50%;
+    overflow-wrap: break-word;
+    font-size: 35px;
+    text-decoration-style: inherit;
+    margin:auto;
+}
+
+
+ol{
+    align-content: center;
+    width: 50%;
+    overflow-wrap: break-word;
+    font-size: 35px;
+    text-decoration-style: inherit;
+    margin:auto;
+}

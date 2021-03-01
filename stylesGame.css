@@ -1,0 +1,66 @@
+.Contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+.textoEncima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.Centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-style: italic;
+    color:snow;
+    border: width 3px;
+    border-style: double;
+    border-color: gold;
+    background-size: cover;
+    background-color:rgb(78, 78, 75);
+}
+body{
+    background-color: aliceblue; 
+}
+H1{
+    font-size: 60px;
+    font-style: italic;
+    color:cornflowerblue;
+    align-content: center;
+}
+
+H2{
+    font-size: 40px;
+    font-family: cursive;
+    color:cornflowerblue;
+    align-content: center;
+}
+h3{
+    color:black;
+    font-size: 70px;
+    font-family:sans-serif ;
+    text-align: center;
+}
+
+p{
+    
+    width: 50%;
+    overflow-wrap: break-word;
+    font-size: 35px;
+    text-decoration-style: inherit;
+    margin:auto;
+}
+
+
+ol{
+    align-content: center;
+    width: 50%;
+    overflow-wrap: break-word;
+    font-size: 35px;
+    text-decoration-style: inherit;
+    margin:auto;
+}
